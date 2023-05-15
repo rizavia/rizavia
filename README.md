@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizavia
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React
+- 👀 I’m a Software Engineer working in Front-End Development
+- 🌱 I've expertise in HTML, CSS, Javascript, React.
 - 💞️ I’m looking to collaborate on Projects involving HTML, CSS, JavaScript, React.
 - 📫 You can reach me at rizavia.sayeed09@gmail.com
 
